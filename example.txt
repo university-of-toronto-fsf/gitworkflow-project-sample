@@ -1,5 +1,6 @@
-Hello, my name is Matthew Groh. 
+Hello we are the combined code of Matthew and Edward.
 
-I am testing the GitHub workflow.
+I am testing the github workflow.
 
 This is neat.
+
